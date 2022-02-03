@@ -2,7 +2,8 @@
 - 👀 I'm interested in videogames, anime and music
 - 🌱 I'm currently learning Multi Plataform Development
 - 💞️ I'm looking to collaborate on nothing for now
-- 📫 How to reach me acontreras1852000@gmail.com
+- 📫 How to reach me  acontreras1852000@gmail.com
+- 📫                  SoratoMadeInSpain@gmail.com
 
 <!---
 Acontreras2k/Acontreras2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
